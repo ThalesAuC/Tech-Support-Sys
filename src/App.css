@@ -4,6 +4,11 @@
   padding: 2rem;
   text-align: center;
 }
+#cadastroForm {
+  margin: 0.5%;
+  padding: 0.5%;
+  
+}
 .form::after{
   content: "\a";
   white-space: pre;
